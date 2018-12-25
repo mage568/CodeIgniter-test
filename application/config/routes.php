@@ -60,3 +60,5 @@ $route['stud/delete/(\d+)'] = 'Stud_controller/delete_student/$1';
 $route['upload'] = 'Upload';
 $route['email'] = "Email_controller";
 $route['validation'] = 'Form';
+$route['sessionex'] = 'Session_controller';
+$route['sessionex/unset'] = 'Session_controller/unset_session_data';
