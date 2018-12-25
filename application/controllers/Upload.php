@@ -1,4 +1,4 @@
-<?php
+   <?php
   
    class Upload extends CI_Controller {
 	
