@@ -62,3 +62,5 @@ $route['email'] = "Email_controller";
 $route['validation'] = 'Form';
 $route['sessionex'] = 'Session_controller';
 $route['sessionex/unset'] = 'Session_controller/unset_session_data';
+$route['flashdata'] = 'FlashData_Controller'; 
+$route['flashdata/add'] = 'FlashData_Controller/add';
